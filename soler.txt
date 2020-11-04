@@ -1,1 +1,5 @@
+<<<<<<<
 //Soler Mauricio user2
+=======
+//Soler Mauricio user1
+>>>>>>> 
